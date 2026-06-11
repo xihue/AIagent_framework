@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# User data (contains personal conversation history and profile)
+memory/chat_history.json
+memory/user.json
+
+# Generated output
+output/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
